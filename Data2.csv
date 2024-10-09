@@ -1,0 +1,9 @@
+City,Age,Income,Subscribed
+Tokyo,32.0,67000.0,No
+New York,45.0,82000.0,Yes
+Berlin,,51000.0,No
+Sydney,36.0,62000.0,Yes
+Paris,41.0,70000.0,No
+Tokyo,33.0,58000.0,Yes
+Berlin,39.0,74000.0,Yes
+New York,29.0,,No
